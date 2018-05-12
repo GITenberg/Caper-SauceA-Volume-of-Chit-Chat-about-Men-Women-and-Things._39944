@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '9387'
     url: http://www.gutenberg.org/2009/agents/9387
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39944#Caper-SauceA-Volume-of-Chit-Chat-about-Men-Women-and-Things.
 gutenberg_issued: '2012-06-08'
 gutenberg_type: Text
 identifiers:
